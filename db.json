@@ -1,14 +1,13 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "quotes": [
+    { "id": 1, "title": "A journey of a thousand miles begins with a single step", "author": "Lao Tzu"},
+    { "id": 2, "title": "A hangover suggests a great night, jet lag suggests a great adventure", "author": "Lao TzuJ.D. Andrews"},
+    { "id": 3, "title": "Do not follow where the path may lead. Go instead where there is no path and leave a trail", "author": "Ralph Waldo Emerson"},
+    { "id": 4, "title": "I am not the same, having seen the moon shine on the other side of the world", "author": "Mary Anne Radmacher"},
+    { "id": 5, "title": "Man cannot discover new oceans unless he has the courage to lose sight of the shore", "author": "Andre Gide"},
+    { "id": 6, "title": "There’s a sunrise and a sunset every single day, and they’re absolutely free. Don’t miss so many of them", "author": "Jo Walton"},
+    { "id": 7, "title": "Oh the places you’ll go", "author": "Dr. Seuss"},
+    { "id": 8, "title": "Fear is only temporary. Regrets last forever", "author": "Unknown"}
+  ]
+
 }
